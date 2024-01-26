@@ -31,8 +31,7 @@ Identifying the noise in the dataset with univariate statistical tests, trying o
 |initial|-|-|-|1.79553|
 |add_features|-|-|-|0.73774|
 |hpo1|60|auto|local|0.5055|
-|hpo2|20|random|local|0.50382|
-|hpo3|20|random|local|0.50382|
+|hpo1|20|random|local|0.50382|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
