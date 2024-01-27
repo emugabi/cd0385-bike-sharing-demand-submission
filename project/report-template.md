@@ -31,19 +31,18 @@ Identifying the noise in the dataset with univariate statistical tests, trying o
 |initial|-|-|-|1.79553|
 |add_features|-|-|-|0.73774|
 |hpo1|60|auto|local|0.5055|
-|hpo1|20|random|local|0.50382|
+|hpo2|20|random|local|0.50382|
+|hpo3|20|random|local|0.50393|
+|hpo4|20|random|local|0.48588|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
-
-TODO: Replace the image below with your own.
 
 ![model_train_score.png](img/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
 
 ![model_test_score.png](img/model_test_score.png)
 
 ## Summary
-TODO: Add your explanation
+Proper EDA is such a critical stage in the ML life cycle and will determine the quality and performance of any Model used. Being able to understand the relationship of each feature towards the target value is a necessary skill that separates good ML engineers from the rest. Additionally, theoretcical knowledge in statistics and a firm grasp of the API parameters per model are key in interpreting the results of a model's prediction as well tunning hyperparameters. 
